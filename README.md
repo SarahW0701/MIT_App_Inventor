@@ -16,8 +16,7 @@ The repository includes multiple independent apps. Each project is provided as a
 | QR Scanner | Scans QR codes and allows opening detected links directly | `QR_Scanner.apk` |
 | Expense Tracker | Quickly records personal expenses | `Expense_Tracker.apk` |
 
----
----
+===
 
 ## Detailed Descriptions of Projects
 ### QR Scanner
