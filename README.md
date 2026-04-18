@@ -18,17 +18,9 @@ The repository includes multiple independent apps. Each project is provided as a
 
 ---
 
-## Usage
-
-To open a project:
-
-1. Go to https://appinventor.mit.edu/
-2. Open the editor ("Create Apps")
-3. Select: **Projects → Import project (.aia) from my computer**
-4. Upload the desired `.aia` file
-
----
-
 ## Detailed Descriptions of Projects
 ### QR Scanner
+
+
+### Expense Tracker
 
