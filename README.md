@@ -29,4 +29,6 @@ To open a project:
 
 ---
 
-## Repository Structure
+## Detailed Descriptions of Projects
+### QR Scanner
+
