@@ -21,6 +21,52 @@ The repository includes multiple independent apps. Each project is provided as a
 ## Detailed Descriptions of Projects
 ### QR Scanner
 
+#### Purpose
+Brief explanation of what the workbook is used for.
+
+#### Features
+- Feature 1
+- Feature 2
+- Feature 3
+
+#### Inputs
+- What the user enters (e.g., purchases, prices, dividends)
+
+#### Outputs
+- Portfolio overview, summaries, calculations, etc.
+
+#### How to Use
+1. Step 1
+2. Step 2
+3. Step 3
+
+#### Notes / Limitations
+- Known constraints
+- Manual update requirements
+- Design assumptions
 
 ### Expense Tracker
 
+#### Purpose
+Brief explanation of what the workbook is used for.
+
+#### Features
+- Feature 1
+- Feature 2
+- Feature 3
+
+#### Inputs
+- What the user enters (e.g., purchases, prices, dividends)
+
+#### Outputs
+- Portfolio overview, summaries, calculations, etc.
+
+#### How to Use
+1. Step 1
+2. Step 2
+3. Step 3
+
+#### Notes / Limitations
+- Known constraints
+- Manual update requirements
+- Design assumptions
