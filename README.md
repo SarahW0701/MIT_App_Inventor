@@ -17,6 +17,7 @@ The repository includes multiple independent apps. Each project is provided as a
 | Expense Tracker | Quickly records personal expenses | `Expense_Tracker.apk` |
 
 ---
+---
 
 ## Detailed Descriptions of Projects
 ### QR Scanner
