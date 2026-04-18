@@ -45,6 +45,8 @@ Brief explanation of what the workbook is used for.
 - Manual update requirements
 - Design assumptions
 
+---
+
 ### Expense Tracker
 
 #### Purpose
