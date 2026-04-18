@@ -13,7 +13,7 @@ The repository includes multiple independent apps. Each project is provided as a
 
 | Name | Description | File |
 |------|------------|------|
-| AppName1 | Brief description of functionality | `AppName1.aia` |
+| QR Scanner | Reading QR codes and possibility to open the link | `QR_Scanner.apk` |
 | AppName2 | Brief description of functionality | `AppName2.aia` |
 
 ---
